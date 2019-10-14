@@ -1,0 +1,17 @@
+.container {
+    margin: 0 auto;
+    max-width: 700px;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.search-results {
+    text-align: left;
+}
+
+li {
+    list-style: none;
+}
